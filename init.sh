@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # cron:0 8 * * *
-# new Env("酷狗签到")
+# new Env("酷狗签到初始化")
 
 set -e
 set -u
