@@ -1,0 +1,10 @@
+{
+    "name": "KuSign-Qinglong",
+    "version": "0.1.0",
+    "description": "酷狗概念版自动签到",
+    "author": "smr8890",
+    "type": "module",
+    "workspaces": [
+        "api/**"
+    ]
+}
